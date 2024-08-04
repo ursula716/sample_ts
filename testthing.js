@@ -18,4 +18,4 @@ function isAnagram(y, z) {
         return y + " and " + z;
     }
 }
-console.log(isAnagram("hELLo", "heoll") + " and " + testPalindrome("anna"));
+console.log(isAnagram("hello", "world") + " and " + testPalindrome("anna"));
